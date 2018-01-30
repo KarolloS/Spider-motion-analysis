@@ -24,5 +24,5 @@ and between leg section plane and sagittal plane. Then, the way how these angles
 * similarity in the motion of R1 and R2, L1 and L2
 * similarity in the motion of R3 and R4, L3 and L4
 
-Project realised as a part of Intermediate Engineering Project - „Investigation of spider's movement properties based on video analysis”
+Project was done as a part of Intermediate Engineering Project - „Investigation of spider's movement properties based on video analysis”
 at Warsaw University Technology. It received the highest possible mark 5/5.
